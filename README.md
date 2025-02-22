@@ -40,7 +40,7 @@ Kaggle: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-da
 ├── referencias        <- Dicionários de dados
 |
 ├── relatorios         <- Análises geradas em HTML, PDF, LaTeX, etc.
-│   └── imagens        <- Gráficos e figuras gerados para serem usados em relatórios
+│   └── imagens        <- Imagens usadas no projeto
 ```
 
 ## Configuração do ambiente
